@@ -17,11 +17,6 @@ AML COMS 4995 group 19 project
     - [Data Augmentation](#data-augmentation)
     - [Learning Algorithms](#learning-algorithms)
   - [Results](#results)
-## About the Project
-
-![About the Project](images/fraud_detection.jpg)
-
-<span>Photo by <a href="https://unsplash.com/@michael_walker?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Michael Walter</a> on <a href="https://unsplash.com/photos/3C0SWyusdS8?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 ### Overview
 
